@@ -1,4 +1,4 @@
-$patch: delete
+$patch: add
 apiVersion: v1
 kind: Namespace
 metadata:
